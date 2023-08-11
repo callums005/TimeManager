@@ -1,0 +1,13 @@
+C:\dev\cs\TimeManager\TimeManager\bin\Release\net6.0\TimeManager.exe
+C:\dev\cs\TimeManager\TimeManager\bin\Release\net6.0\TimeManager.deps.json
+C:\dev\cs\TimeManager\TimeManager\bin\Release\net6.0\TimeManager.runtimeconfig.json
+C:\dev\cs\TimeManager\TimeManager\bin\Release\net6.0\TimeManager.dll
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.csproj.AssemblyReference.cache
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.AssemblyInfoInputs.cache
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.AssemblyInfo.cs
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.csproj.CoreCompileInputs.cache
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.dll
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\refint\TimeManager.dll
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\TimeManager.genruntimeconfig.cache
+C:\dev\cs\TimeManager\TimeManager\obj\Release\net6.0\ref\TimeManager.dll
