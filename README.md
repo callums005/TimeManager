@@ -10,3 +10,6 @@ This is quite a simple program, the basic structure is as follow
 	D. Press S to save tasks to a file
 	E. Press X to toggle the selected tasks completion state
 4. If the task is complete, set the background green, if not then set to red
+
+![Icon of the app](./Logo.png)
+![Photo of the app](./App.png)
